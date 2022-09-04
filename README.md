@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farzanhazim
-- 👀 I’m interested in  Blockchain Coding.
+- 👀 I’m interested in Smart Contract Development.
 - 🌱 I’m currently learning Ethereum Smart Contract Development.
 - 💞️ I’m looking to collaborate on Smart Contracts and Web3.
 - 📫 Reach me therough email hazimfarzanaptech@gmail.com
